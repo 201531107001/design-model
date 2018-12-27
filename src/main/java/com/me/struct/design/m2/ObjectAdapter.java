@@ -15,7 +15,7 @@ public class ObjectAdapter implements Chinese {
 
     @Override
     public String speakChinese(String str) {
-        return "翻译:"+english.speakEnglish(str);
+        return "翻译："+english.speakEnglish(str);
     }
 
 }
