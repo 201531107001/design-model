@@ -13,15 +13,15 @@ public abstract class DoDishTemplate {
     /**
      * 备料
      */
-    public abstract void preparation();
+    protected abstract void preparation();
 
     /**
      * 做菜
      */
-    public abstract void doing();
+    protected abstract void doing();
 
     /**
      * 上菜
      */
-    public abstract void carriedDishes();
+    protected abstract void carriedDishes();
 }
