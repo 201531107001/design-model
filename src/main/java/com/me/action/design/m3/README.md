@@ -48,3 +48,5 @@ State 模式和 Strategy 模式又很大程度上的相似：它们都有一个 
 尽相同：State 模式主要是要适应对象对于状态改变时的不同处理策略的实现，而 Strategy
 则主要是具体算法和实现接口的解耦（coupling），Strategy 模式中并没有状态的概念（虽然
 很多时候有可以被看作是状态的概念），并且更加不关心状态的改变了。
+
+参考网址:https://www.cnblogs.com/zyrblog/p/9250285.html
