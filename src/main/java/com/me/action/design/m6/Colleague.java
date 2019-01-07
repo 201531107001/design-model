@@ -1,7 +1,7 @@
 package com.me.action.design.m6;
 
 public abstract class Colleague {
-    private Mediator mediator;
+    protected Mediator mediator;
 
     public Colleague(Mediator mediator) {
         this.mediator = mediator;
@@ -12,8 +12,7 @@ public abstract class Colleague {
     }
 
     public abstract void action();
+    
+    public abstract void change();
 
-    public void change() {
-        mediator.colleagueChanged();
-    }
 }
