@@ -13,4 +13,4 @@ Chain of Responsibility 模式描述其实就是这样一类问题将可能处�
 降低了耦合性，请求的发送者完全不必知道该请求会被哪个应答对象处理，极大地降低了系统的耦合性。
 
 参考网址:https://www.jianshu.com/p/75946acd80e3
-
+java中的责任链模式应用:https://www.cnblogs.com/lizo/p/7503862.html
