@@ -12,3 +12,7 @@
 1. [桥接模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m1)
 2. [适配器模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m2)
 3. [装饰器模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m3)
+4. [组合模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m4)
+5. [享元模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m5)
+6. [外观模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m6)
+7. [代理模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m7)
