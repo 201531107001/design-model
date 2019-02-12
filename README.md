@@ -16,3 +16,9 @@
 5. [享元模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m5)
 6. [外观模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m6)
 7. [代理模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/struct/design/m7)
+
+## 行为型
+1. [模板模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m1)
+2. [策略模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m2)
+3. [状态模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m3)
+4. [观察者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m4)
