@@ -22,3 +22,7 @@
 2. [策略模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m2)
 3. [状态模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m3)
 4. [观察者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m4)
+5. [备忘录模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m5)
+6. [中介者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m6)
+7. [命令模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m7)
+8. [访问者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m8)
