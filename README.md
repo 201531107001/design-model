@@ -26,3 +26,6 @@
 6. [中介者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m6)
 7. [命令模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m7)
 8. [访问者模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m8)
+9. [责任链模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m9)
+10. [迭代器模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m10)
+11. [解析器模式](https://github.com/201531107001/design-model/tree/master/src/main/java/com/me/action/design/m11)
