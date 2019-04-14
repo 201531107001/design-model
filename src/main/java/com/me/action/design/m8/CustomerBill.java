@@ -15,6 +15,6 @@ public class CustomerBill extends Bill{
 
 	@Override
 	public void accept(Visitor visitor) {
-		visitor.view(this);
+		visitor.visit(this);
 	}
 }

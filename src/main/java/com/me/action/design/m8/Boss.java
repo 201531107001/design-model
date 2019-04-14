@@ -13,12 +13,12 @@ public class Boss implements Visitor {
 	}
 
 	@Override
-	public void view(IncomeBill bill) {
+	public void visit(IncomeBill bill) {
 		totalIncome = totalIncome + bill.getAmount();
 	}
 
 	@Override
-	public void view(CustomerBill bill) {
+	public void visit(CustomerBill bill) {
 		totalConsumer = totalConsumer + bill.getAmount();
 	}
 }
